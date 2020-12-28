@@ -1,1 +1,1 @@
-# WebScrappingProj- Priel Krishtal
+# WebScrapingProj- Priel Krishtal
