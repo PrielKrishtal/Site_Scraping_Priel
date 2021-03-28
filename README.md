@@ -1,2 +1,1 @@
-A website that provides tips before purchasing a car.
-On this website, you can find tips about purchasing a car, Car search engine, and other features that will make the experience of purchasing your car easier.
+A Python program that receives a requested product from the user and returns an Excel table with a summary of various people who sell the requested product on Amazon along with a breakdown of the rating and prices of the product.
